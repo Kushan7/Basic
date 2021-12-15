@@ -13,13 +13,13 @@ It is a mac changer in which you can easy change MAC  address of any interface w
 
 # Help
 
-``Usage: mac_changer.py [options]
+Usage: mac_changer.py [options]
 
 Options:
   -h, --help            show this help message and exit
   -i INTERFACE, --interface=INTERFACE
                         Interface to change its MAC address.
   -m NEW_MAC, --mac=NEW_MAC
-                        New MAC address.``
+                        New MAC address.
                         
                         
