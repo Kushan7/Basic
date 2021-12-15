@@ -24,4 +24,4 @@ Options:
                         
                         
 
-**I will be updating the tools in the repository regularly.**
+**I will be updating the tools in this repository regularly.**
