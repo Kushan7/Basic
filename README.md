@@ -1,4 +1,4 @@
-# Scaling-disco
+# Hack Legacy
 ![This is an image](https://i.ibb.co/f0Hzsnh/MAC-CHANGER.png)
 It is a mac changer in which you can easy change MAC  address of any interface with help of some options and arguments.
 
