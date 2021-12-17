@@ -16,7 +16,7 @@ It is a mac changer in which you can easy change MAC  address of any interface w
 
 # How to Use MAC changer?
 
-``git clone https://github.com/Kushan7/Scaling-disco ``
+``git clone https://github.com/Kushan7/Hack_Legacy ``
 
 ``sudo python3 mac_changer.py -i {interface} -m {mac address} ``
 
